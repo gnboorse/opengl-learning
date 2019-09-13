@@ -1,0 +1,3 @@
+// set version numbers from the cmakelists definition
+#define opengl_learning_VERSION_MAJOR @opengl_learning_VERSION_MAJOR@
+#define opengl_learning_VERSION_MINOR @opengl_learning_VERSION_MINOR@
